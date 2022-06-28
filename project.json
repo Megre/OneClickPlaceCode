@@ -1,0 +1,10 @@
+{
+    "name": "进入园区",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.ui",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
