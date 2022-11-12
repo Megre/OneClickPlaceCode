@@ -27,7 +27,7 @@ var sysAlbum = text("系统相册").findOne(2000);
 var btn = null;
 if(sysAlbum) {
     while(!(btn = text("确定").findOne(200))) {
-        click(0, 216);
+        click(361, 216);
     }
 }
 
